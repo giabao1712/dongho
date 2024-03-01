@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #050202;
+}
+.timer {
+    font-size: 450px;
+    color: #eee7e7;
+}
+.timer span {
+    color: #ff0000;
+}
+/* style.css */
+.kh-image {
+    width: 250px;
+    height: 250px;
+    position: fixed;
+    top: 90px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
